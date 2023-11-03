@@ -3,5 +3,5 @@
 int main(void)
 {
 	int a= 1;
-	return;
+	return 0;
 }
